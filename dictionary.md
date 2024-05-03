@@ -28,7 +28,7 @@
 | install, setup                | орнату                               |                                   |
 | partition                     | диск бөлімі                          |                                   |
 | reboot                        | қайта жүктеу                         |                                   |
-| root                          | түбі                                 |                                   |
+| root                          | түбі, түбірі                         |                                   |
 | shell                         | ?                                    |                                   |
 | shutdown                      | сөндіру                              |                                   |
 | terminal                      | терминал (пәрмен терминалы)          |                                   |
